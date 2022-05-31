@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman - AKA Code 👋</h1>
 <h3 align="center">I'm a Full Stack Developer From Egypt</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/58876947/171235013-a12f4dda-06f4-401d-b7d0-c32fabf06917.gif">
 - 🌱 I’m currently learning **Data Mining** 
 - 👯 I’m looking to collaborate with other developers 
 - 🥅 2022 Goals: Build a lot of projects
