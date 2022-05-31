@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman - AKA code 👋</h1>
 <h3 align="center">I'm a Full Stack Developer From Egypt</h3>
-
+- 🌱 I’m currently learning Data Mining ⛏️
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Build a lot of projects
+- ⚡ Fun fact: I love to play football
 - 📫 How to reach me **abdelrahmanabdallah9800@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
