@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="mailto: abdelrahmanabdallah9800@gmail.com" target="_blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/5968/5968534.png" alt="abdelrahmanabdallah" height="30" width="40" /></a>
+ <a href="mailto: abdelrahmanabdallah9800@gmail.com"><img align="center" src="https://cdn-icons-png.freepik.com/512/5968/5968534.png" alt="abdelrahmanabdallah" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/abdelrahmanabdallah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrahmanabdallah" height="30" width="40" /></a>
 <a href="https://instagram.com/___c_o_d_e___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___c_o_d_e___" height="30" width="40" /></a>
 <a href="https://www.behance.net/abdelraabdalla6" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="abdelraabdalla6" height="30" width="40" /></a>
