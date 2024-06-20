@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman - AKA Code 👋</h1>
 <h3 align="center">I'm a Software Engineer From Egypt</h3>
 
-<img align="right" alt="coding-image" width="400" src="https://user-images.githubusercontent.com/58876947/171235013-a12f4dda-06f4-401d-b7d0-c32fabf06917.gif">
+<img align="right" alt="coding-image" width="400" style="margin-bottom:5px;" src="https://user-images.githubusercontent.com/58876947/171235013-a12f4dda-06f4-401d-b7d0-c32fabf06917.gif">
 
 - 🌱 I’m currently learning **Scaling** 
 - 👯 I’m looking to collaborate with other developers 
