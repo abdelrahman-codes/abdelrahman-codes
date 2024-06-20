@@ -3,7 +3,8 @@
 
 <img align="right" alt="coding-image" width="400" src="https://user-images.githubusercontent.com/58876947/171235013-a12f4dda-06f4-401d-b7d0-c32fabf06917.gif">
 
-<div style="margin-top:5px;"></div>
+
+
 - 🌱 I’m currently learning **Scaling** 
 - 👯 I’m looking to collaborate with other developers 
 - ⚡ Fun fact: I want to be a movie director
