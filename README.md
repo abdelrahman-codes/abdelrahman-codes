@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:abdelrahmanabdallah9800@gmail.com"><img style="margin-right:5px;" src="https://cdn-icons-png.freepik.com/512/5968/5968534.png" alt="abdelrahmanabdallah" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/abdelrahmanabdallah" target="_blank"><img style="margin-right:5px;" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png" alt="abdelrahmanabdallah" height="30" width="30" /></a>
-<a href="https://instagram.com/___c_o_d_e___" target="_blank"><img style="margin-right:5px;" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1622378014.1718883569" alt="___c_o_d_e___" height="30" width="30" /></a>
+<a href="mailto:abdelrahmanabdallah9800@gmail.com"><img style="margin-right:5px;" align="center" src="https://cdn-icons-png.freepik.com/512/5968/5968534.png" alt="abdelrahmanabdallah" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/abdelrahmanabdallah" target="_blank"><img style="margin-right:5px;" align="center" src="https://cdn-icons-png.freepik.com/512/3536/3536505.png" alt="abdelrahmanabdallah" height="30" width="30" /></a>
+<a href="https://instagram.com/___c_o_d_e___" target="_blank"><img style="margin-right:5px;" align="center" src="https://cdn-icons-png.freepik.com/512/2111/2111463.png?ga=GA1.1.1622378014.1718883569" alt="___c_o_d_e___" height="30" width="30" /></a>
 <a href="https://www.behance.net/abdelraabdalla6" target="_blank"><img align="center" src="https://cdn-icons-png.freepik.com/512/3536/3536806.png" alt="abdelraabdalla6" height="30" width="30" /></a>
 </p>
 
